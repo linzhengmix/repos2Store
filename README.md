@@ -7,14 +7,15 @@ used to store some good and useful github repository
   + zhihu-py3: https://github.com/7sDream/zhihu-py3
   + webcrawler: https://github.com/huntingzhu/webcrawler
   + Anti-Anti-Spider: https://github.com/luyishisi/Anti-Anti-Spider
+  + spider-roach,分布式定向抓取集群: https://github.com/weizetao/spider-roach
   + 
 + tools
   + Python:https://github.com/geekcomputers/Python
   + 
 + books
   + A Programmer's Guide to Data Mining:https://github.com/zacharski/pg2dm-python
-  + 
-
+  + Python Cookbook, 3rd Edition: https://github.com/dabeaz/python-cookbook
+  + Biopython Tutorial Chinese Translation: https://github.com/bigwiv/Biopython-cn
 
 
 ## R
@@ -24,13 +25,18 @@ used to store some good and useful github repository
 
 
 ## Bioinformatics
-
++ KEGG: https://github.com/param-p-singh/KEGG
++ RNA-seq-scripts: https://github.com/LenzLab/RNA-seq-scripts
++ rna-seq-diff-exprn: https://github.com/olgabot/rna-seq-diff-exprn
++ 
 
 
 ## others
 + tools 
   + Emoji-Cheat-Sheet.com: https://github.com/WebpageFX/emoji-cheat-sheet.com
   + git-tips: https://github.com/521xueweihan/git-tips
+  + shell: https://github.com/fengyuhetao/shell
+  + 
   
 
 
