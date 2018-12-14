@@ -18,7 +18,7 @@ used to store some good and useful github repository
 
 
 ## R
-+tools
++ tools
   + circlize,circular visualization in R: https://github.com/jokergoo/circlize
   + 
 
@@ -28,7 +28,6 @@ used to store some good and useful github repository
 
 
 ## others
-
 + tools 
   + Emoji-Cheat-Sheet.com: https://github.com/WebpageFX/emoji-cheat-sheet.com
   + git-tips: https://github.com/521xueweihan/git-tips
