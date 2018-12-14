@@ -22,7 +22,7 @@ used to store some good and useful github repository
 ## R
 + tools
   + circlize,circular visualization in R: https://github.com/jokergoo/circlize
-  + 
+  + rmarkdown-book: https://github.com/rstudio/rmarkdown-book
 
 
 ## Bioinformatics
