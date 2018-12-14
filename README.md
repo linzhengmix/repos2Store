@@ -8,7 +8,7 @@ used to store some good and useful github repository
   + webcrawler: https://github.com/huntingzhu/webcrawler
   + Anti-Anti-Spider: https://github.com/luyishisi/Anti-Anti-Spider
   + spider-roach,分布式定向抓取集群: https://github.com/weizetao/spider-roach
-  + 
+  + Python-crawler: https://github.com/Ehco1996/Python-crawler
 + tools
   + Python:https://github.com/geekcomputers/Python
   + 
@@ -28,7 +28,10 @@ used to store some good and useful github repository
 + KEGG: https://github.com/param-p-singh/KEGG
 + RNA-seq-scripts: https://github.com/LenzLab/RNA-seq-scripts
 + rna-seq-diff-exprn: https://github.com/olgabot/rna-seq-diff-exprn
-+ 
++ NGS-pipeline: https://github.com/jmzeng1314/NGS-pipeline
++ RUN-WGCNA: https://github.com/SamBuckberry/RUN-WGCNA
++ Next Generation sequencing Data analysis,RNA-Seq: https://github.com/gouthamatla/RNA-Seq
++
 
 
 ## others
