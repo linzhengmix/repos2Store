@@ -33,7 +33,7 @@ used to store some good and useful github repository :floppy_disk:
 + RUN-WGCNA: https://github.com/SamBuckberry/RUN-WGCNA
 + Next Generation sequencing Data analysis,RNA-Seq: https://github.com/gouthamatla/RNA-Seq
 + HomBlocks,HomBlocks is a new and highly efficient pipeline that used homologous blocks searching method to construct multi-gene alignment. It can automatically recognize locally collinear blocks (LCB) among organelle genomes and excavate phylogeny informative regions to construct multi-gene involved alignment in few hours.: https://github.com/fenghen360/HomBlocks
-
++ **Awesome-Bioinformatics**: A curated list of awesome Bioinformatics libraries and software. https://github.com/danielecook/Awesome-Bioinformatics
 
 ## others
 + tools 
