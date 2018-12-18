@@ -2,18 +2,18 @@
 used to store some good and useful github repository :floppy_disk:
 
 
-## python
+## python :snake:
 + spider :beetle:
   + zhihu-py3: https://github.com/7sDream/zhihu-py3
   + webcrawler: https://github.com/huntingzhu/webcrawler
   + Anti-Anti-Spider: https://github.com/luyishisi/Anti-Anti-Spider
   + spider-roach,分布式定向抓取集群: https://github.com/weizetao/spider-roach
   + Python-crawler: https://github.com/Ehco1996/Python-crawler
-+ tools
++ tools :wrench:
   + Python:https://github.com/geekcomputers/Python
   + show-me-the-code: https://github.com/Yixiaohan/show-me-the-code
   + 
-+ books
++ books :books:
   + A Programmer's Guide to Data Mining:https://github.com/zacharski/pg2dm-python
   + Python Cookbook, 3rd Edition: https://github.com/dabeaz/python-cookbook
   + Biopython Tutorial Chinese Translation: https://github.com/bigwiv/Biopython-cn
