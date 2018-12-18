@@ -1,19 +1,19 @@
 # githubRepository2Store
-used to store some good and useful github repository
+used to store some good and useful github repository :floppy_disk:
 
 
-## python
-+ spider
+## python :snake:
++ spider :beetle:
   + zhihu-py3: https://github.com/7sDream/zhihu-py3
   + webcrawler: https://github.com/huntingzhu/webcrawler
   + Anti-Anti-Spider: https://github.com/luyishisi/Anti-Anti-Spider
   + spider-roach,分布式定向抓取集群: https://github.com/weizetao/spider-roach
   + Python-crawler: https://github.com/Ehco1996/Python-crawler
-+ tools
++ tools :wrench:
   + Python:https://github.com/geekcomputers/Python
   + show-me-the-code: https://github.com/Yixiaohan/show-me-the-code
   + 
-+ books
++ books :books:
   + A Programmer's Guide to Data Mining:https://github.com/zacharski/pg2dm-python
   + Python Cookbook, 3rd Edition: https://github.com/dabeaz/python-cookbook
   + Biopython Tutorial Chinese Translation: https://github.com/bigwiv/Biopython-cn
@@ -33,7 +33,7 @@ used to store some good and useful github repository
 + RUN-WGCNA: https://github.com/SamBuckberry/RUN-WGCNA
 + Next Generation sequencing Data analysis,RNA-Seq: https://github.com/gouthamatla/RNA-Seq
 + HomBlocks,HomBlocks is a new and highly efficient pipeline that used homologous blocks searching method to construct multi-gene alignment. It can automatically recognize locally collinear blocks (LCB) among organelle genomes and excavate phylogeny informative regions to construct multi-gene involved alignment in few hours.: https://github.com/fenghen360/HomBlocks
-
++ **Awesome-Bioinformatics**: A curated list of awesome Bioinformatics libraries and software. https://github.com/danielecook/Awesome-Bioinformatics
 
 ## others
 + tools 
@@ -41,7 +41,8 @@ used to store some good and useful github repository
   + git-tips: https://github.com/521xueweihan/git-tips
   + shell: https://github.com/fengyuhetao/shell
   + Pyevolve: https://github.com/perone/Pyevolve
-  + 
+  + ideabook: A Growth Engineering Idea in Action.https://github.com/phodal/ideabook
+  + DataWarehouse: https://github.com/ljtyduyu/DataWarehouse
   
 ## mechine learning 
 + demo project
