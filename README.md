@@ -42,6 +42,7 @@ used to store some good and useful github repository :floppy_disk:
   + shell: https://github.com/fengyuhetao/shell
   + Pyevolve: https://github.com/perone/Pyevolve
   + ideabook: A Growth Engineering Idea in Action.https://github.com/phodal/ideabook
+  + ideabook: https://github.com/ljtyduyu/DataWarehouse
   
 ## mechine learning 
 + demo project
