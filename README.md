@@ -3,7 +3,7 @@ used to store some good and useful github repository :floppy_disk:
 
 
 ## python
-+ spider
++ spider :beetle:
   + zhihu-py3: https://github.com/7sDream/zhihu-py3
   + webcrawler: https://github.com/huntingzhu/webcrawler
   + Anti-Anti-Spider: https://github.com/luyishisi/Anti-Anti-Spider
