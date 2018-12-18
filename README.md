@@ -43,6 +43,7 @@ used to store some good and useful github repository :floppy_disk:
   + Pyevolve: https://github.com/perone/Pyevolve
   + ideabook: A Growth Engineering Idea in Action.https://github.com/phodal/ideabook
   + DataWarehouse: https://github.com/ljtyduyu/DataWarehouse
+  + awesome-mac:  This repo is a collection of awesome Mac applications and tools for developers and designers. https://github.com/jaywcjlove/awesome-mac
   
 ## mechine learning 
 + demo project
