@@ -1,5 +1,5 @@
 # githubRepository2Store
-used to store some good and useful github repository
+used to store some good and useful github repository :floppy_disk:
 
 
 ## python
