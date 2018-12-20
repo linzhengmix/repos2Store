@@ -17,6 +17,8 @@ used to store some good and useful github repository :floppy_disk:
   + A Programmer's Guide to Data Mining:https://github.com/zacharski/pg2dm-python
   + Python Cookbook, 3rd Edition: https://github.com/dabeaz/python-cookbook
   + Biopython Tutorial Chinese Translation: https://github.com/bigwiv/Biopython-cn
+  + Python Cookbook 3rd Edition Documentation: https://python3-cookbook.readthedocs.io/zh_CN/latest/
+  
 
 
 ## R
@@ -44,6 +46,7 @@ used to store some good and useful github repository :floppy_disk:
   + ideabook: A Growth Engineering Idea in Action.https://github.com/phodal/ideabook
   + DataWarehouse: https://github.com/ljtyduyu/DataWarehouse
   + awesome-mac:  This repo is a collection of awesome Mac applications and tools for developers and designers. https://github.com/jaywcjlove/awesome-mac
+  + awk Tutorial: https://awk.readthedocs.io/en/latest/chapter-one.html
   
 ## mechine learning 
 + demo project
