@@ -28,6 +28,7 @@ used to store some good and useful github repository :floppy_disk:
 + books
   + Automated Data Collection with R: http://kek.ksu.ru/eos/WM/AutDataCollectR.pdf
   + Automated Data Collection with R resouce: https://github.com/crubba/Wiley-ADCR
+  + materials: http://www.r-datacollection.com/materials/
 
 
 
