@@ -12,7 +12,7 @@ used to store some good and useful github repository :floppy_disk:
 + tools :wrench:
   + Python:https://github.com/geekcomputers/Python
   + show-me-the-code: https://github.com/Yixiaohan/show-me-the-code
-  + 
+  + matplotlib: plotting with Python: https://github.com/matplotlib/matplotlib
 + books :books:
   + A Programmer's Guide to Data Mining:https://github.com/zacharski/pg2dm-python
   + Python Cookbook, 3rd Edition: https://github.com/dabeaz/python-cookbook
