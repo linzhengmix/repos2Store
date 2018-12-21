@@ -26,7 +26,9 @@ used to store some good and useful github repository :floppy_disk:
   + circlize,circular visualization in R: https://github.com/jokergoo/circlize
   + rmarkdown-book: https://github.com/rstudio/rmarkdown-book 
 + books
-  + Automated Data Collection with R: https://github.com/crubba/Wiley-ADCR
+  + Automated Data Collection with R: http://kek.ksu.ru/eos/WM/AutDataCollectR.pdf
+  + Automated Data Collection with R resouce: https://github.com/crubba/Wiley-ADCR
+
 
 
 ## Bioinformatics
