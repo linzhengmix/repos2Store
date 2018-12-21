@@ -42,6 +42,7 @@ used to store some good and useful github repository :floppy_disk:
 ## others
 + tools 
   + Emoji-Cheat-Sheet.com: https://github.com/WebpageFX/emoji-cheat-sheet.com
+  + Concise, consistent, and legible badges in SVG and raster format: https://github.com/badges/shields
   + git-tips: https://github.com/521xueweihan/git-tips
   + shell: https://github.com/fengyuhetao/shell
   + Pyevolve: https://github.com/perone/Pyevolve
