@@ -25,6 +25,7 @@ used to store some good and useful github repository :floppy_disk:
 + tools
   + circlize,circular visualization in R: https://github.com/jokergoo/circlize
   + rmarkdown-book: https://github.com/rstudio/rmarkdown-book 
+  + A curated list of awesome R packages, frameworks and software： https://github.com/qinwf/awesome-R
 + books
   + Automated Data Collection with R: http://kek.ksu.ru/eos/WM/AutDataCollectR.pdf
   + Automated Data Collection with R resouce: https://github.com/crubba/Wiley-ADCR
