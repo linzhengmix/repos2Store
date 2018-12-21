@@ -54,6 +54,7 @@ used to store some good and useful github repository :floppy_disk:
   + DataWarehouse: https://github.com/ljtyduyu/DataWarehouse
   + awesome-mac:  This repo is a collection of awesome Mac applications and tools for developers and designers. https://github.com/jaywcjlove/awesome-mac
   + awk Tutorial: https://awk.readthedocs.io/en/latest/chapter-one.html
+  + Curated list of awesome lists： https://github.com/sindresorhus/awesome
   
 ## mechine learning 
 + demo project
