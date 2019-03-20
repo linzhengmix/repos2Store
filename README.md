@@ -47,6 +47,7 @@ used to store some good and useful github repository :floppy_disk:
 + ggtree, Visualization and annotation of phylogenetic trees: https://github.com/GuangchuangYu/ggtree
 + pipeLine: 
   + https://github.com/winston-lab
+  + https://github.com/pditommaso/awesome-pipeline
 
 ## others
 + tools 
