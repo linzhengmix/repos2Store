@@ -19,6 +19,8 @@ used to store some good and useful github repository :floppy_disk:
   + Biopython Tutorial Chinese Translation: https://github.com/bigwiv/Biopython-cn
   + Python Cookbook 3rd Edition Documentation: https://python3-cookbook.readthedocs.io/zh_CN/latest/
   + Biopython: https://github.com/biopython/biopython
++ pipeLine: 
+  + https://github.com/winston-lab
 
 
 ## R
