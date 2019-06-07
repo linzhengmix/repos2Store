@@ -18,6 +18,7 @@ used to store some good and useful github repository :floppy_disk:
   + Python Cookbook, 3rd Edition: https://github.com/dabeaz/python-cookbook
   + Biopython Tutorial Chinese Translation: https://github.com/bigwiv/Biopython-cn
   + Python Cookbook 3rd Edition Documentation: https://python3-cookbook.readthedocs.io/zh_CN/latest/
+  + Python Cookbook: https://github.com/yidao620c/python3-cookbook
   + Biopython: https://github.com/biopython/biopython
 
 
