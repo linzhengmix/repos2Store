@@ -9,6 +9,13 @@ used to store some good and useful github repository :floppy_disk:
   + Anti-Anti-Spider: https://github.com/luyishisi/Anti-Anti-Spider
   + spider-roach,分布式定向抓取集群: https://github.com/weizetao/spider-roach
   + Python-crawler: https://github.com/Ehco1996/Python-crawler
+  + awesome-spider, 这一款爬虫，里面搜集了几乎所有可以爬取的中文网址，从知乎豆瓣到知网，抖音微博到QQ，还有很多的不可描述的网站.：https://github.com/facert/awesome-spider
+  + Nyspider, 这是ID为Nyloner的一个今日头条的工程师弄的. :https://github.com/Nyloner/Nyspider
+  + awesome-python-login-model, 这个项目用于模拟各种网址登陆，也包含一些简单的爬虫. :https://github.com/CriseLYJ/awesome-python-login-model
+  + python-spider, 这是ID为Jack-Cherish的东北大学的一个学生整理的学习python爬虫的资料，star6000+，包含不少的实战项目. :https://github.com/Jack-Cherish/python-spider
+  + Google，Baidu，Bing三大搜素引擎图片爬虫: https://github.com/sczhengyabin/Image-Downloader
+  + 各大视频网站爬虫: https://github.com/iawia002/annie
+  + others: https://github.com/jhao104/proxy_pool, https://github.com/Ehco1996/Python-crawler
 + tools :wrench:
   + Python:https://github.com/geekcomputers/Python
   + show-me-the-code: https://github.com/Yixiaohan/show-me-the-code
