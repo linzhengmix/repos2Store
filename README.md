@@ -15,6 +15,9 @@ used to store some good and useful github repository :floppy_disk:
   + python-spider, 这是ID为Jack-Cherish的东北大学的一个学生整理的学习python爬虫的资料，star6000+，包含不少的实战项目. :https://github.com/Jack-Cherish/python-spider
   + Google，Baidu，Bing三大搜素引擎图片爬虫: https://github.com/sczhengyabin/Image-Downloader
   + 各大视频网站爬虫: https://github.com/iawia002/annie
+  + [spider_python](https://github.com/xingag/spider_python) - 多线程爬虫, Selenium 自动化爬虫, Scrapy 框架爬虫, Node.js 爬虫
+  + [spider_job](https://github.com/xianyunyh/spider_job) - 51job, 拉勾网， boss直聘爬虫以及前端显示
+  + [python_spider](https://github.com/liangzhuz/python_spider) - 房天下，简书，淘宝，知乎，观察者网站首页新闻，抖音爬虫项目
   + others: https://github.com/jhao104/proxy_pool, https://github.com/Ehco1996/Python-crawler
 + tools :wrench:
   + Python:https://github.com/geekcomputers/Python
@@ -56,6 +59,13 @@ used to store some good and useful github repository :floppy_disk:
 + pipeLine: 
   + https://github.com/winston-lab
   + https://github.com/pditommaso/awesome-pipeline
+
+
+## 统计学习方法
++ [lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》第二版的代码实现
++ [Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) - 手写实现李航《统计学习方法》书中全部算法
++ [Lihang](https://github.com/SmirkCao/Lihang) - Statistical learning methods, 统计学习方法
++ []() -
 
 ## others
 + tools 
