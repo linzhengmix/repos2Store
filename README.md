@@ -4,11 +4,11 @@ used to store some good and useful github repository :floppy_disk:
 
 ## python :snake:
 + spider :beetle:
-  + zhihu-py3: https://github.com/7sDream/zhihu-py3
-  + webcrawler: https://github.com/huntingzhu/webcrawler
-  + Anti-Anti-Spider: https://github.com/luyishisi/Anti-Anti-Spider
-  + spider-roach,分布式定向抓取集群: https://github.com/weizetao/spider-roach
-  + Python-crawler: https://github.com/Ehco1996/Python-crawler
+  + [zhihu-py3](https://github.com/7sDream/zhihu-py3) - 知乎非官方API库 with Python3
+  + [webcrawler](https://github.com/huntingzhu/webcrawler) - 50行python爬虫代码，带你发现知乎新世界！
+  + [Anti-Anti-Spider](https://github.com/luyishisi/Anti-Anti-Spider) - 基于CNN的验证码图片识别
+  + [spider-roach](https://github.com/weizetao/spider-roach) - 分布式定向抓取集群
+  + [Python-crawler](https://github.com/Ehco1996/Python-crawler) - 爬虫合集：Beautiful Soup 爬虫，Scrapy 爬虫框架； 浏览器模拟爬虫；练手项目
   + awesome-spider, 这一款爬虫，里面搜集了几乎所有可以爬取的中文网址，从知乎豆瓣到知网，抖音微博到QQ，还有很多的不可描述的网站.：https://github.com/facert/awesome-spider
   + Nyspider, 这是ID为Nyloner的一个今日头条的工程师弄的. :https://github.com/Nyloner/Nyspider
   + awesome-python-login-model, 这个项目用于模拟各种网址登陆，也包含一些简单的爬虫. :https://github.com/CriseLYJ/awesome-python-login-model
