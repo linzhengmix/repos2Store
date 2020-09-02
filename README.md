@@ -35,7 +35,8 @@ used to store some good and useful github repository :floppy_disk:
 
 ## R
 + tools
-  + circlize,circular visualization in R: https://github.com/jokergoo/circlize
+  + [drake](https://github.com/ropensci/drake) - An R-focused pipeline toolkit for reproducibility and high-performance computing
+  + [circlize](https://github.com/jokergoo/circlize) - circular visualization in R
   + rmarkdown-book: https://github.com/rstudio/rmarkdown-book 
   + A curated list of awesome R packages, frameworks and software： https://github.com/qinwf/awesome-R
   + A functional programming toolkit for R： https://github.com/tidyverse/purrr
@@ -52,10 +53,11 @@ used to store some good and useful github repository :floppy_disk:
 + rna-seq-diff-exprn: https://github.com/olgabot/rna-seq-diff-exprn
 + NGS-pipeline: https://github.com/jmzeng1314/NGS-pipeline
 + RUN-WGCNA: https://github.com/SamBuckberry/RUN-WGCNA
-+ Next Generation sequencing Data analysis,RNA-Seq: https://github.com/gouthamatla/RNA-Seq
-+ HomBlocks,HomBlocks is a new and highly efficient pipeline that used homologous blocks searching method to construct multi-gene alignment. It can automatically recognize locally collinear blocks (LCB) among organelle genomes and excavate phylogeny informative regions to construct multi-gene involved alignment in few hours.: https://github.com/fenghen360/HomBlocks
-+ **Awesome-Bioinformatics**: A curated list of awesome Bioinformatics libraries and software. https://github.com/danielecook/Awesome-Bioinformatics
-+ ggtree, Visualization and annotation of phylogenetic trees: https://github.com/GuangchuangYu/ggtree
++ [seqkit](https://github.com/shenwei356/seqkit) - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang
++ [RNA-Seq](https://github.com/gouthamatla/RNA-Seq) - Next Generation sequencing Data analysis
++ [HomBlocks](https://github.com/fenghen360/HomBlocks) - HomBlocks is a new and highly efficient pipeline that used homologous blocks searching method to construct multi-gene alignment. It can automatically recognize locally collinear blocks (LCB) among organelle genomes and excavate phylogeny informative regions to construct multi-gene involved alignment in few hours.
++ [**Awesome-Bioinformatics**](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics libraries and software. 
++ [ggtree](https://github.com/GuangchuangYu/ggtree) - Visualization and annotation of phylogenetic trees
 + pipeLine: 
   + https://github.com/winston-lab
   + https://github.com/pditommaso/awesome-pipeline
@@ -67,10 +69,23 @@ used to store some good and useful github repository :floppy_disk:
 + [Lihang](https://github.com/SmirkCao/Lihang) - Statistical learning methods, 统计学习方法
 + []() -
 
+
+## 算法
++ [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
++ [Algorithms](https://github.com/iostalks/Algorithms) - 数据结构和算法专项训练营
++ [Algorithms-Javascript](https://github.com/TheAlgorithms/Javascript) - A repository for All algorithms implemented in Javascript
++ [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径
+
+
+
+
+
 ## others
 + tools 
   + Emoji-Cheat-Sheet.com: https://github.com/WebpageFX/emoji-cheat-sheet.com
   + Concise, consistent, and legible badges in SVG and raster format: https://github.com/badges/shields
+  + [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - GitHub中文排行榜
+  + [nficano/pytube](https://github.com/nficano/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
   + git-tips: https://github.com/521xueweihan/git-tips
   + shell: https://github.com/fengyuhetao/shell
   + Pyevolve: https://github.com/perone/Pyevolve
