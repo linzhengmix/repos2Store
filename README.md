@@ -4,10 +4,12 @@ used to store some good and useful github repository :floppy_disk:
 
 ## python :snake:
 + spider :beetle:
+  + [awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - python模拟登陆一些大型网站，还有一些简单的爬虫
   + [zhihu-py3](https://github.com/7sDream/zhihu-py3) - 知乎非官方API库 with Python3
   + [webcrawler](https://github.com/huntingzhu/webcrawler) - 50行python爬虫代码，带你发现知乎新世界！
+  + [AntSpider](https://github.com/csuldw/AntSpider) - 1000万豆瓣电影/评论/名人/评分数据采集源码分享（内含千万电影数据集，可下载）
   + [Anti-Anti-Spider](https://github.com/luyishisi/Anti-Anti-Spider) - 基于CNN的验证码图片识别
-  + [spider-roach](https://github.com/weizetao/spider-roach) - 分布式定向抓取集群
+  + [spider-roach](https://github.com/weizetao/spider-roach) - 分布式定向抓取集群 
   + [Python-crawler](https://github.com/Ehco1996/Python-crawler) - 爬虫合集：Beautiful Soup 爬虫，Scrapy 爬虫框架； 浏览器模拟爬虫；练手项目
   + awesome-spider, 这一款爬虫，里面搜集了几乎所有可以爬取的中文网址，从知乎豆瓣到知网，抖音微博到QQ，还有很多的不可描述的网站.：https://github.com/facert/awesome-spider
   + Nyspider, 这是ID为Nyloner的一个今日头条的工程师弄的. :https://github.com/Nyloner/Nyspider
@@ -67,7 +69,8 @@ used to store some good and useful github repository :floppy_disk:
 + [lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》第二版的代码实现
 + [Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) - 手写实现李航《统计学习方法》书中全部算法
 + [Lihang](https://github.com/SmirkCao/Lihang) - Statistical learning methods, 统计学习方法
-+ []() -
++ [Statistic-study-notes](https://github.com/kingsunfather/Statistic-study-notes) - 李航统计学习方法（第二版）的学习笔记
++ []() - 
 
 
 ## 算法
@@ -75,6 +78,8 @@ used to store some good and useful github repository :floppy_disk:
 + [Algorithms](https://github.com/iostalks/Algorithms) - 数据结构和算法专项训练营
 + [Algorithms-Javascript](https://github.com/TheAlgorithms/Javascript) - A repository for All algorithms implemented in Javascript
 + [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径
++ [leetcode](https://github.com/RinLinux/leetcode) - Python & JAVA Solutions for Leetcode
++ []() - 
 
 
 
