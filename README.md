@@ -8,12 +8,14 @@ used to store some good and useful github repository :floppy_disk:
   + [zhihu-py3](https://github.com/7sDream/zhihu-py3) - 知乎非官方API库 with Python3
   + [webcrawler](https://github.com/huntingzhu/webcrawler) - 50行python爬虫代码，带你发现知乎新世界！
   + [AntSpider](https://github.com/csuldw/AntSpider) - 1000万豆瓣电影/评论/名人/评分数据采集源码分享（内含千万电影数据集，可下载）
+  + [DouBanSpider](https://github.com/lanbing510/DouBanSpider) - 豆瓣读书的爬虫
   + [Anti-Anti-Spider](https://github.com/luyishisi/Anti-Anti-Spider) - 基于CNN的验证码图片识别
   + [spider-roach](https://github.com/weizetao/spider-roach) - 分布式定向抓取集群 
   + [Python-crawler](https://github.com/Ehco1996/Python-crawler) - 爬虫合集：Beautiful Soup 爬虫，Scrapy 爬虫框架； 浏览器模拟爬虫；练手项目
-  + awesome-spider, 这一款爬虫，里面搜集了几乎所有可以爬取的中文网址，从知乎豆瓣到知网，抖音微博到QQ，还有很多的不可描述的网站.：https://github.com/facert/awesome-spider
-  + Nyspider, 这是ID为Nyloner的一个今日头条的工程师弄的. :https://github.com/Nyloner/Nyspider
-  + awesome-python-login-model, 这个项目用于模拟各种网址登陆，也包含一些简单的爬虫. :https://github.com/CriseLYJ/awesome-python-login-model
+  + [python-spider](https://github.com/Jack-Cherish/python-spider) - Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
+  + [awesome-spider](https://github.com/facert/awesome-spider) - 这一款爬虫，里面搜集了几乎所有可以爬取的中文网址，从知乎豆瓣到知网，抖音微博到QQ，还有很多的不可描述的网站
+  + [Nyspider](https://github.com/Nyloner/Nyspider) - 这是ID为Nyloner的一个今日头条的工程师弄的.
+  + [awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) - 这个项目用于模拟各种网址登陆，也包含一些简单的爬虫. :
   + python-spider, 这是ID为Jack-Cherish的东北大学的一个学生整理的学习python爬虫的资料，star6000+，包含不少的实战项目. :https://github.com/Jack-Cherish/python-spider
   + Google，Baidu，Bing三大搜素引擎图片爬虫: https://github.com/sczhengyabin/Image-Downloader
   + 各大视频网站爬虫: https://github.com/iawia002/annie
@@ -25,6 +27,8 @@ used to store some good and useful github repository :floppy_disk:
   + Python:https://github.com/geekcomputers/Python
   + show-me-the-code: https://github.com/Yixiaohan/show-me-the-code
   + matplotlib: plotting with Python: https://github.com/matplotlib/matplotlib
+  + [stock](https://github.com/pythonstock/stock) - stock，股票系统。使用python进行开发
+  + [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - Python 富有体系且实用的小例子、小案例
 + books :books:
   + A Programmer's Guide to Data Mining:https://github.com/zacharski/pg2dm-python
   + Python Cookbook, 3rd Edition: https://github.com/dabeaz/python-cookbook
@@ -32,6 +36,9 @@ used to store some good and useful github repository :floppy_disk:
   + Python Cookbook 3rd Edition Documentation: https://python3-cookbook.readthedocs.io/zh_CN/latest/
   + Python Cookbook: https://github.com/yidao620c/python3-cookbook
   + Biopython: https://github.com/biopython/biopython
+  + [sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) - scikit-learn（sklearn）中文文档
+  + [d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with code, math, and discussions. Available in multi-frameworks
+  + [ggplot2-book](https://github.com/hadley/ggplot2-book) - ggplot2: elegant graphics for data analysis
 
 
 
@@ -42,11 +49,13 @@ used to store some good and useful github repository :floppy_disk:
   + rmarkdown-book: https://github.com/rstudio/rmarkdown-book 
   + A curated list of awesome R packages, frameworks and software： https://github.com/qinwf/awesome-R
   + A functional programming toolkit for R： https://github.com/tidyverse/purrr
+  + [diamond](https://github.com/bbuchfink/diamond) - Accelerated BLAST compatible local sequence aligner
+  + [ggtech](https://github.com/ricardo-bion/ggtech) - ggplot2 tech themes, scales, and geoms
 + books
   + Automated Data Collection with R: http://kek.ksu.ru/eos/WM/AutDataCollectR.pdf
   + Automated Data Collection with R resouce: https://github.com/crubba/Wiley-ADCR
   + materials: http://www.r-datacollection.com/materials/
-
+  + [adv-r](https://github.com/hadley/adv-r) - Advanced R: a book
 
 
 ## Bioinformatics
@@ -55,11 +64,13 @@ used to store some good and useful github repository :floppy_disk:
 + rna-seq-diff-exprn: https://github.com/olgabot/rna-seq-diff-exprn
 + NGS-pipeline: https://github.com/jmzeng1314/NGS-pipeline
 + RUN-WGCNA: https://github.com/SamBuckberry/RUN-WGCNA
++ [megahit](https://github.com/voutcn/megahit) - Ultra-fast and memory-efficient (meta-)genome assembler
 + [seqkit](https://github.com/shenwei356/seqkit) - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang
 + [RNA-Seq](https://github.com/gouthamatla/RNA-Seq) - Next Generation sequencing Data analysis
 + [HomBlocks](https://github.com/fenghen360/HomBlocks) - HomBlocks is a new and highly efficient pipeline that used homologous blocks searching method to construct multi-gene alignment. It can automatically recognize locally collinear blocks (LCB) among organelle genomes and excavate phylogeny informative regions to construct multi-gene involved alignment in few hours.
 + [**Awesome-Bioinformatics**](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics libraries and software. 
 + [ggtree](https://github.com/GuangchuangYu/ggtree) - Visualization and annotation of phylogenetic trees
++ [taxonkit](https://github.com/shenwei356/taxonkit) - A Cross-platform and Efficient NCBI Taxonomy Toolkit
 + pipeLine: 
   + https://github.com/winston-lab
   + https://github.com/pditommaso/awesome-pipeline
