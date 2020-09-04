@@ -71,6 +71,7 @@ used to store some good and useful github repository :floppy_disk:
 + [**Awesome-Bioinformatics**](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics libraries and software. 
 + [ggtree](https://github.com/GuangchuangYu/ggtree) - Visualization and annotation of phylogenetic trees
 + [taxonkit](https://github.com/shenwei356/taxonkit) - A Cross-platform and Efficient NCBI Taxonomy Toolkit
++ [mag](https://github.com/nf-core/mag) - Assembly and binning of metagenomes
 + pipeLine: 
   + https://github.com/winston-lab
   + https://github.com/pditommaso/awesome-pipeline
@@ -112,7 +113,7 @@ used to store some good and useful github repository :floppy_disk:
   + Curated list of awesome lists： https://github.com/sindresorhus/awesome
   
 ## mechine learning 
-+ demo project
-  + MachineLearningDeomoCode:https://github.com/spartajet/MachineLearningDeomoCode
++ [AiLearning](https://github.com/apachecn/AiLearning) - AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
++ MachineLearningDeomoCode:https://github.com/spartajet/MachineLearningDeomoCode
 
 
