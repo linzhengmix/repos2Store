@@ -11,4 +11,7 @@ https://github.com/kingsunfather/Statistic-study-notes
 https://github.com/Kr1s77/awesome-python-login-model
 
 
+git commit --allow-empty -m "update at `date -d '21 days ago'`"
+
+
 
