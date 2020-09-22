@@ -1,4 +1,4 @@
-# githubRepository2Store
+# Record some useful repos
 This repo is used to store some good and useful github repositories :floppy_disk:
 
 
