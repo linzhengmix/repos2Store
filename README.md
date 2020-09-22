@@ -2,7 +2,7 @@
 used to store some good and useful github repositories :floppy_disk:
 
 
-## python :snake:
+## Python :snake:
 + spider :beetle:
   + [awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - python模拟登陆一些大型网站，还有一些简单的爬虫
   + [zhihu-py3](https://github.com/7sDream/zhihu-py3) - 知乎非官方API库 with Python3
@@ -91,9 +91,6 @@ used to store some good and useful github repositories :floppy_disk:
 + [Algorithms-Javascript](https://github.com/TheAlgorithms/Javascript) - A repository for All algorithms implemented in Javascript
 + [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径
 + [leetcode](https://github.com/RinLinux/leetcode) - Python & JAVA Solutions for Leetcode
-+ []() - 
-
-
 
 
 
