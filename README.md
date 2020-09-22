@@ -94,7 +94,7 @@ This repo is used to store some good and useful github repositories :floppy_disk
 
 
 
-## others
+## Others
 + tools 
   + Emoji-Cheat-Sheet.com: https://github.com/WebpageFX/emoji-cheat-sheet.com
   + Concise, consistent, and legible badges in SVG and raster format: https://github.com/badges/shields
@@ -109,7 +109,7 @@ This repo is used to store some good and useful github repositories :floppy_disk
   + awk Tutorial: https://awk.readthedocs.io/en/latest/chapter-one.html
   + Curated list of awesome lists： https://github.com/sindresorhus/awesome
   
-## mechine learning 
+## Mechine learning 
 + [AiLearning](https://github.com/apachecn/AiLearning) - AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 + MachineLearningDeomoCode:https://github.com/spartajet/MachineLearningDeomoCode
 
